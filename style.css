@@ -1,0 +1,31 @@
+body {
+  background-color: #f54947;
+  color: #fff;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+} 
+nav {
+  font-size: 100px;
+  text-align: center;
+  margin: 30px 0 ;
+}
+button {
+  width: 200px;
+  height:30px;
+  background-color: #f54947;
+  border: 1px solid #fff;
+  margin: 10px;
+  color: #fff;
+}
+.buttons {
+  margin:130px auto 0 auto;
+}
+#time {
+  font-size: 150px;
+  text-align: center;
+  width: 200px;
+  height:200px;
+  margin: 0 auto;
+}
